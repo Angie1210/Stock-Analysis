@@ -16,9 +16,15 @@ In the "Analysis Refactored" we created a tickerIndex variable to move across 4 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/43548929/156904659-1bd1a6d0-294f-4a81-8dac-2c5636821ad2.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/43548929/156904667-ea937ab2-1aff-4b60-ad8d-a49840f99d95.png)
 
+We got the same results per year with both macros. As we can see, in 2017 the best performing stocks were DQ,ENPH, FSLR and SEDG with returns over 100%, but 2018 was a terrible year for the stock market and the only ones with positive return were ENPH and RUN,  so based on only these 2 years, we recommend Steve to invest in ENPH, because it also was the most traded.
 
 
-We used the same formatting for the output, so it looks the same for both macros
+
+
+![StockAnalysis_2017](https://user-images.githubusercontent.com/43548929/156906565-8eaa66b4-d2e5-4cc7-af3a-f85c93dad541.png)
+![StockAnalysis_2018](https://user-images.githubusercontent.com/43548929/156906535-9585a6e1-18c3-4569-b65e-a9f3e0faffa0.png)
+
+
 ## Summary
 VBA is a great tool to reduce repetitive tasks and to decreae the chance of errors.
 By refactoring the code,  Its a significant difference if we want to use our code in bigger databases. 
